@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\models\\bookstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\models\\bookstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\migrations\\librarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\migrations\\librarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf\\bookshelf.api\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2993C05-CF4A-47D6-B2AE-BB30A16D9ABD}|BookShelf.Api\\BookShelf.Api.csproj|solutionrelative:bookshelf.api\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookShelf.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwD4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:29:58.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BookShelf.Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:29:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookStats.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Models\\BookStats.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Models\\BookStats.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Models\\BookStats.cs",
+              "RelativeToolTip": "BookShelf.Api\\Models\\BookStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:29:21.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Migrations\\LibraryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Migrations\\LibraryContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Migrations\\LibraryContextModelSnapshot.cs",
+              "RelativeToolTip": "BookShelf.Api\\Migrations\\LibraryContextModelSnapshot.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:23:03.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "BookShelf.Api\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:26:16.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookShelf.Api\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:25:39.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Program.cs",
+              "RelativeToolTip": "BookShelf.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:25:33.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BookShelf.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\appsettings.json",
+              "RelativeToolTip": "BookShelf.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T14:25:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Services\\BookService.cs",
+              "RelativeToolTip": "BookShelf.Api\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:24:48.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "BookShelf.Api\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:23:24.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Models\\Book.cs",
+              "RelativeToolTip": "BookShelf.Api\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:22:25.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookShelf.Api\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf\\BookShelf.Api\\Models\\Author.cs",
+              "RelativeToolTip": "BookShelf.Api\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:22:12.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

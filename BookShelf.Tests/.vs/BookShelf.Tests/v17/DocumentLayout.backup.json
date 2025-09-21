@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BEC142-C294-4ACD-A420-17B2D4553BFE}|BookShelf.Tests\\BookShelf.Tests.csproj|c:\\users\\pr10r\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bookshelf.tests\\bookshelf.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BEC142-C294-4ACD-A420-17B2D4553BFE}|BookShelf.Tests\\BookShelf.Tests.csproj|solutionrelative:bookshelf.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf.Tests\\BookShelf.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BookShelf.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pr10r\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BookShelf.Tests\\BookShelf.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BookShelf.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:32:48.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
